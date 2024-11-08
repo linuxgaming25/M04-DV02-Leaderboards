@@ -11,13 +11,13 @@ F:\unityfolder\2022.2.21f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/typic/Downloads/PlayFabLeaderboard-Complete-Project-2020-LTS/PlayFabLeaderboard
+C:/Users/typic/Downloads/New folder/M04-DV02-Leaderboards/M04-DV02-Leaderboards
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57844
-Successfully changed project path to: C:/Users/typic/Downloads/PlayFabLeaderboard-Complete-Project-2020-LTS/PlayFabLeaderboard
-C:/Users/typic/Downloads/PlayFabLeaderboard-Complete-Project-2020-LTS/PlayFabLeaderboard
+64176
+Successfully changed project path to: C:/Users/typic/Downloads/New folder/M04-DV02-Leaderboards/M04-DV02-Leaderboards
+C:/Users/typic/Downloads/New folder/M04-DV02-Leaderboards/M04-DV02-Leaderboards
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,15 +49,15 @@ C:/Users/typic/Downloads/PlayFabLeaderboard-Complete-Project-2020-LTS/PlayFabLea
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [20656] Host "[IP] 172.30.70.147 [Port] 0 [Flags] 2 [Guid] 2271307640 [EditorId] 2271307640 [Version] 1048832 [Id] WindowsEditor(7,BMS-COM-01) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [4588] Host "[IP] 172.30.70.147 [Port] 0 [Flags] 2 [Guid] 3864033949 [EditorId] 3864033949 [Version] 1048832 [Id] WindowsEditor(7,BMS-COM-01) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [20656] Host "[IP] 172.30.70.147 [Port] 0 [Flags] 2 [Guid] 2271307640 [EditorId] 2271307640 [Version] 1048832 [Id] WindowsEditor(7,BMS-COM-01) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [4588] Host "[IP] 172.30.70.147 [Port] 0 [Flags] 2 [Guid] 3864033949 [EditorId] 3864033949 [Version] 1048832 [Id] WindowsEditor(7,BMS-COM-01) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 19.00 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 7.57 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.2.21f1 (4907324dc95b)
 [Subsystems] Discovering subsystems at path F:/unityfolder/2022.2.21f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/typic/Downloads/PlayFabLeaderboard-Complete-Project-2020-LTS/PlayFabLeaderboard/Assets
+[Subsystems] Discovering subsystems at path C:/Users/typic/Downloads/New folder/M04-DV02-Leaderboards/M04-DV02-Leaderboards/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -69,43 +69,43 @@ Initialize mono
 Mono path[0] = 'F:/unityfolder/2022.2.21f1/Editor/Data/Managed'
 Mono path[1] = 'F:/unityfolder/2022.2.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'F:/unityfolder/2022.2.21f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56336
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: F:/unityfolder/2022.2.21f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: F:/unityfolder/2022.2.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008552 seconds.
-- Loaded All Assemblies, in  0.656 seconds
+Registered in 0.010187 seconds.
+- Loaded All Assemblies, in  0.509 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.530 seconds
+- Finished resetting the current domain, in  0.400 seconds
 Domain Reload Profiling:
-	ReloadAssembly (396ms)
-		BeginReloadAssembly (212ms)
+	ReloadAssembly (291ms)
+		BeginReloadAssembly (132ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (2ms)
+			CreateAndSetChildDomain (1ms)
 		LoadAllAssembliesAndSetupDomain (0ms)
-			LoadAssemblies (210ms)
+			LoadAssemblies (131ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (255ms)
-				TypeCache.Initialize (253ms)
-					TypeCache.ScanAssembly (246ms)
+			SetupTypeCache (214ms)
+				TypeCache.Initialize (213ms)
+					TypeCache.ScanAssembly (211ms)
 				ResolveRequiredComponents (1ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
-			SetupLoadedEditorAssemblies (407ms)
+			SetupLoadedEditorAssemblies (308ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
-				SetLoadedEditorAssemblies (11ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (6ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (280ms)
-				ProcessInitializeOnLoadMethodAttributes (98ms)
+				ProcessInitializeOnLoadAttributes (210ms)
+				ProcessInitializeOnLoadMethodAttributes (74ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -113,20 +113,20 @@ Domain Reload Profiling:
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.180 seconds
-Refreshing native plugins compatible for Editor in 3.81 ms, found 2 plugins.
+- Loaded All Assemblies, in  0.918 seconds
+Refreshing native plugins compatible for Editor in 3.43 ms, found 2 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 CreateSerializedAsset is not supported while importing out-of-process
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
-PlayFab.PfEditor.PlayFabEditorPrefsSO:get_Instance () (at Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs:38)
-PlayFab.PfEditor.SubMenuComponent:RegisterMenuItem (string,System.Action) (at Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Components/SubMenuComponent.cs:42)
-PlayFab.PfEditor.PlayFabEditorDataMenu:RegisterMenu () (at Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:93)
-PlayFab.PfEditor.PlayFabEditorDataMenu:.cctor () (at Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:74)
+PlayFab.PfEditor.PlayFabEditorPrefsSO:get_Instance () (at C:/Users/typic/Downloads/PlayFabLeaderboard-Complete-Project-2020-LTS/PlayFabLeaderboard/Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs:38)
+PlayFab.PfEditor.SubMenuComponent:RegisterMenuItem (string,System.Action) (at C:/Users/typic/Downloads/PlayFabLeaderboard-Complete-Project-2020-LTS/PlayFabLeaderboard/Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Components/SubMenuComponent.cs:42)
+PlayFab.PfEditor.PlayFabEditorDataMenu:RegisterMenu () (at C:/Users/typic/Downloads/PlayFabLeaderboard-Complete-Project-2020-LTS/PlayFabLeaderboard/Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:93)
+PlayFab.PfEditor.PlayFabEditorDataMenu:.cctor () (at C:/Users/typic/Downloads/PlayFabLeaderboard-Complete-Project-2020-LTS/PlayFabLeaderboard/Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:74)
 System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 
-[Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs line 38]
+[C:/Users/typic/Downloads/PlayFabLeaderboard-Complete-Project-2020-LTS/PlayFabLeaderboard/Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs line 38]
 
 UnityEngine.UnityException: Creating asset at path Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset failed.
   at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
@@ -141,44 +141,44 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.027 seconds
+- Finished resetting the current domain, in  0.917 seconds
 Domain Reload Profiling:
-	ReloadAssembly (431ms)
-		BeginReloadAssembly (277ms)
+	ReloadAssembly (335ms)
+		BeginReloadAssembly (210ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
+			DisableScriptedObjects (11ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		LoadAllAssembliesAndSetupDomain (748ms)
-			LoadAssemblies (441ms)
+			CreateAndSetChildDomain (34ms)
+		LoadAllAssembliesAndSetupDomain (582ms)
+			LoadAssemblies (348ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (462ms)
-				TypeCache.Initialize (441ms)
-					TypeCache.ScanAssembly (429ms)
-				ResolveRequiredComponents (4ms)
+			SetupTypeCache (341ms)
+				TypeCache.Initialize (320ms)
+					TypeCache.ScanAssembly (315ms)
+				ResolveRequiredComponents (6ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
-			SetupLoadedEditorAssemblies (761ms)
+			SetupLoadedEditorAssemblies (693ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (4ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (5ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (62ms)
-				ProcessInitializeOnLoadAttributes (646ms)
-				ProcessInitializeOnLoadMethodAttributes (36ms)
+				BeforeProcessingInitializeOnLoad (56ms)
+				ProcessInitializeOnLoadAttributes (588ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
-Refreshing native plugins compatible for Editor in 2.71 ms, found 2 plugins.
+			AwakeInstancesAfterBackupRestoration (11ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 3.04 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 27 unused Assets / (54.3 KB). Loaded Objects now: 2001.
-Memory consumption went from 76.5 MB to 76.5 MB.
-Total: 5.625200 ms (FindLiveObjects: 0.447000 ms CreateObjectMapping: 0.187700 ms MarkObjects: 4.821400 ms  DeleteObjects: 0.166300 ms)
+Unloading 27 unused Assets / (54.2 KB). Loaded Objects now: 2002.
+Memory consumption went from 76.7 MB to 76.7 MB.
+Total: 6.483300 ms (FindLiveObjects: 0.285200 ms CreateObjectMapping: 0.179400 ms MarkObjects: 5.813500 ms  DeleteObjects: 0.203500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
@@ -194,9 +194,1031 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 45257.969744 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e34f7f52e5b6762a25d2bef3a6bf89') in 0.003397 seconds
+  Time since last request: 46902.261926 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Data/PlayFabDataInstanceAPI.cs
+  artifactKey: Guid(6c754c6db47f4d943954121319b071d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Data/PlayFabDataInstanceAPI.cs using Guid(6c754c6db47f4d943954121319b071d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '00b3b887eed73caee06b5d12f70be808') in 0.180989 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Matchmaker/PlayFabEvents.cs
+  artifactKey: Guid(1055058934189914bac79666a289e9fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Matchmaker/PlayFabEvents.cs using Guid(1055058934189914bac79666a289e9fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '91e014eb529f9875be8798bab89e1ce3') in 0.016457 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/CloudScript/PlayFabCloudScriptModels.cs
+  artifactKey: Guid(e51e70743e2edab4f88b8de52466db7d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/CloudScript/PlayFabCloudScriptModels.cs using Guid(e51e70743e2edab4f88b8de52466db7d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '16fe2ada42ab30caab818bb03973d8c4') in 0.033232 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/link.xml
+  artifactKey: Guid(dc2c3070dc174cc45a4aaf1a5e38263d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/link.xml using Guid(dc2c3070dc174cc45a4aaf1a5e38263d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1ea8114ab75e424276e17df7eb40c619') in 0.020760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Editor/PlayFablogo.png
+  artifactKey: Guid(ec8f5065b10fb4f04bebf82a992c442e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Editor/PlayFablogo.png using Guid(ec8f5065b10fb4f04bebf82a992c442e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '160cb06cbe2eaaeba6d59a62f096debe') in 0.138326 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Editor/PlayFabHelp.cs
+  artifactKey: Guid(e51e733dabbc847fa839b19c01bc577c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Editor/PlayFabHelp.cs using Guid(e51e733dabbc847fa839b19c01bc577c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '412e9fa13cb461a21668127971fcd24d') in 0.021087 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Authentication/PlayFabAuthenticationInstanceAPI.cs
+  artifactKey: Guid(ecff04cca276a454aad3baf64c4a2ab4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Authentication/PlayFabAuthenticationInstanceAPI.cs using Guid(ecff04cca276a454aad3baf64c4a2ab4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8294a21ea3825b411d0a027278ecf8e8') in 0.020961 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '81392d8efd6628d7df64a3484f55c5c6') in 0.101875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Client/PlayFabDeviceUtil.cs
+  artifactKey: Guid(dd4190ddf909a304eb43068a0caea903) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Client/PlayFabDeviceUtil.cs using Guid(dd4190ddf909a304eb43068a0caea903) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd3fb10398202f5f21bc42343213e3531') in 0.019122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1802f4413e7e660e73d43f41c1cc769a') in 0.083242 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/GZipStream.cs
+  artifactKey: Guid(1d218a1ed7f6a614cb68a4a0c093dfbe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/GZipStream.cs using Guid(1d218a1ed7f6a614cb68a4a0c093dfbe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e302345380f3118eb15a53829532ce80') in 0.017960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset
+  artifactKey: Guid(1f208733cfe8d634b8dd9ddde41b71f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset using Guid(1f208733cfe8d634b8dd9ddde41b71f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9e15d2917566885cbc96f8f46a0368d4') in 0.068856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/PluginManager.cs
+  artifactKey: Guid(408cd48212db9ae46b9100b1d3fef3b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/PluginManager.cs using Guid(408cd48212db9ae46b9100b1d3fef3b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7c4d9263ebb2783313ba1fc07a3a2568') in 0.031511 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/ZlibCodec.cs
+  artifactKey: Guid(91aee734bfb149145aedc35cebc213c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/ZlibCodec.cs using Guid(91aee734bfb149145aedc35cebc213c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cbd7093441015b99921815bda7da93a8') in 0.115505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Models/PlayFabSharedSettings.cs
+  artifactKey: Guid(093286084a3d1994a9c28281a1c38b1d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Models/PlayFabSharedSettings.cs using Guid(093286084a3d1994a9c28281a1c38b1d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '314be860281120542f84a1ddf07e0e19') in 0.056977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Data/PlayFabEvents.cs
+  artifactKey: Guid(deeaf7c863e34d24591edc6c7cf96650) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Data/PlayFabEvents.cs using Guid(deeaf7c863e34d24591edc6c7cf96650) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a3550fd5d74a8c204c71cd2aa968f9c9') in 0.022216 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Components/TitleDataViewer.cs
+  artifactKey: Guid(667b18201be5e4597bd623f2314cf2bd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Components/TitleDataViewer.cs using Guid(667b18201be5e4597bd623f2314cf2bd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '45f417bf77d9d23dd80b9172e5c76c64') in 0.030663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  artifactKey: Guid(48bb5f55d8670e349b6e614913f9d910) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader using Guid(48bb5f55d8670e349b6e614913f9d910) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '23308dd9542e9208649aa53dc8b788a6') in 0.037838 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Profiles/PlayFabProfilesAPI.cs
+  artifactKey: Guid(04039b10ae9eebd46a8c4a5b401ea567) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Profiles/PlayFabProfilesAPI.cs using Guid(04039b10ae9eebd46a8c4a5b401ea567) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'be2e6b7af06a508d5eceac958e1aa4a5') in 0.034399 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Localization/PlayFabEvents.cs
+  artifactKey: Guid(1c3bd18b65a5d8d4eb83e5ef98114e4d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Localization/PlayFabEvents.cs using Guid(1c3bd18b65a5d8d4eb83e5ef98114e4d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'efce1996837a5a4f8c6f0a62cda2dc35') in 0.029143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9aaef37512b14b60daf5455497e6f4e6') in 0.028261 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+  artifactKey: Guid(1b8d251f9af63b746bf2f7ffe00ebb9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf using Guid(1b8d251f9af63b746bf2f7ffe00ebb9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '170bea6f9cf277d1e4fa950ab2221f0e') in 0.023227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Admin/PlayFabAdminInstanceAPI.cs
+  artifactKey: Guid(942c3c5d808dfed49b4c4369cc282d49) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Admin/PlayFabAdminInstanceAPI.cs using Guid(942c3c5d808dfed49b4c4369cc282d49) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f787e2979e80b4c187f47bd44f3a6640') in 0.028960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Events/PlayFabEventsAPI.cs
+  artifactKey: Guid(6209aee5722aa2c46ba625e1944d6fa8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Events/PlayFabEventsAPI.cs using Guid(6209aee5722aa2c46ba625e1944d6fa8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '03cf136077f8f030de5bc24a7389cefc') in 0.022674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/ZTree.cs
+  artifactKey: Guid(e87ed58b28c1f8444aac50a060bd86a9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/ZTree.cs using Guid(e87ed58b28c1f8444aac50a060bd86a9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'df8df4bea41252e207f9c48859dadc92') in 0.022176 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Server/PlayFabServerAPI.cs
+  artifactKey: Guid(d1e12172e1632754fa9cf42f58d7bc9e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Server/PlayFabServerAPI.cs using Guid(d1e12172e1632754fa9cf42f58d7bc9e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fe4aabb8036aff16453c9cfb34dc40b4') in 0.037239 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Internal/wsaReflectionExtensions.cs
+  artifactKey: Guid(1b20d57e2279b3a408268b20c2be2208) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Internal/wsaReflectionExtensions.cs using Guid(1b20d57e2279b3a408268b20c2be2208) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ff80ce25baa1ae7bc5d726520a32ecc5') in 0.021492 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Models/SharedModels.cs
+  artifactKey: Guid(8e2ad5324972b434883785ddddf9c851) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Models/SharedModels.cs using Guid(8e2ad5324972b434883785ddddf9c851) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '19342b24130593f24860f01fb7cf931c') in 0.041006 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Authentication/PlayFabAuthenticationModels.cs
+  artifactKey: Guid(ec656500f922b0b4db8e13c80770e0d5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Authentication/PlayFabAuthenticationModels.cs using Guid(ec656500f922b0b4db8e13c80770e0d5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd2cfe569a58546d6d4a8d82e4184f664') in 0.018047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Components/ProgressBar.cs
+  artifactKey: Guid(73c59009a8870444f8f5658099fc86f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Components/ProgressBar.cs using Guid(73c59009a8870444f8f5658099fc86f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b3ce844c0fdcf8acc7c32cc4f31caf94') in 0.047705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Matchmaker/PlayFabMatchmakerModels.cs
+  artifactKey: Guid(c7c60a1006c1e64499804ca82b2412ed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Matchmaker/PlayFabMatchmakerModels.cs using Guid(c7c60a1006c1e64499804ca82b2412ed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4c8b6abda29975b601c1e4650236a119') in 0.024743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+  artifactKey: Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader using Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '564e9e11d0dd7353fb2378cd702bd982') in 0.045213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Localization/PlayFabLocalizationModels.cs
+  artifactKey: Guid(772d6350724839b498944cab1b377fb5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Localization/PlayFabLocalizationModels.cs using Guid(772d6350724839b498944cab1b377fb5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2790a6ed7085f9e06f024c688c0e73ff') in 0.036586 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorHelper.cs
+  artifactKey: Guid(b7a0580bf951d2f46861fe4785bf74f6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorHelper.cs using Guid(b7a0580bf951d2f46861fe4785bf74f6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '550079521cc0c3fb9d8ae62182701771') in 0.031668 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/checkmark_off.png
+  artifactKey: Guid(d20c53c8cad21024091aeed0b9bf2a0e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/checkmark_off.png using Guid(d20c53c8cad21024091aeed0b9bf2a0e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e14fcfa7f27d87fe82c6a281adfe249c') in 0.063787 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/checkmark.png
+  artifactKey: Guid(1f806a850e4ff264eafc4935f65793b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/checkmark.png using Guid(1f806a850e4ff264eafc4935f65793b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '00f0ca104cd6fe013cc08ddce944eeaf') in 0.077769 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+  artifactKey: Guid(381dcb09d5029d14897e55f98031fca5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Sprites/EmojiOne Attribution.txt using Guid(381dcb09d5029d14897e55f98031fca5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7767b0df15fb56e97c69f69761dae2c9') in 0.034814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+  artifactKey: Guid(bc1ede39bf3643ee8e493720e4259791) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader using Guid(bc1ede39bf3643ee8e493720e4259791) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '842293842ebbfb272d3316ba336648bf') in 0.023963 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/DeflateStream.cs
+  artifactKey: Guid(d7cb4e529d8d0374f96b989aaf5e6c77) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/DeflateStream.cs using Guid(d7cb4e529d8d0374f96b989aaf5e6c77) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '13b353293bbae370dc18fc01aa5c9ee5') in 0.040610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8ea5ae6906fa9f07147a0180a2b20772') in 0.068178 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd79aacbb7011520e4c542145db403741') in 0.068594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/Inflate.cs
+  artifactKey: Guid(dbc8cf5f446a5304d9816ca7c6842d08) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/Inflate.cs using Guid(dbc8cf5f446a5304d9816ca7c6842d08) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a4028718f8c76dc706d0357236a54ea9') in 0.026702 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/PlayFabAuthenticationContext.cs
+  artifactKey: Guid(5e4df1f8e07aee2409343554f628ce8b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/PlayFabAuthenticationContext.cs using Guid(5e4df1f8e07aee2409343554f628ce8b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cc2d20fc1f24ab43b23bba30bbcc897b') in 0.035413 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/InfTree.cs
+  artifactKey: Guid(64e92cd0ce2bbc84e9ce03acff91ba87) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/InfTree.cs using Guid(64e92cd0ce2bbc84e9ce03acff91ba87) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5721d0ba304af7e6dba38c6a7a1dd38b') in 0.025489 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Groups/PlayFabGroupsModels.cs
+  artifactKey: Guid(d73f86b427d81044bb2417ea3b5b03ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Groups/PlayFabGroupsModels.cs using Guid(d73f86b427d81044bb2417ea3b5b03ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8d6e3839c2068eff75210150b7d59fc2') in 0.036865 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/Orange.png
+  artifactKey: Guid(83fd25cf40b81429ca784df9d37d32ba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/Orange.png using Guid(83fd25cf40b81429ca784df9d37d32ba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2b903aa3aa28b7de6823e6ed35c3aeb9') in 0.042856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/External/aria/CompactBinaryProtocolWriter.cs
+  artifactKey: Guid(d43f7526083df4f489ba53da390841f4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/External/aria/CompactBinaryProtocolWriter.cs using Guid(d43f7526083df4f489ba53da390841f4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4a0fc69f1000cf193af199aabbb7b002') in 0.038517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/pfFullLogo_O.png
+  artifactKey: Guid(597788bebb59e4cec8318947e1a3da3e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/pfFullLogo_O.png using Guid(597788bebb59e4cec8318947e1a3da3e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'aa90e039ae6d286204dc0b67cf6d5d0c') in 0.050708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/External/aria/Utils.cs
+  artifactKey: Guid(6bb861c202c02454e8055d2674620c5c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/External/aria/Utils.cs using Guid(6bb861c202c02454e8055d2674620c5c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '258e96dcbf500e9af0ecceb82ac71232') in 0.032463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/r_colored.png
+  artifactKey: Guid(93e56b7e753794953939a50df2c9c323) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/r_colored.png using Guid(93e56b7e753794953939a50df2c9c323) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f94f9f0833ece8de288723f4cc24c0cd') in 0.073705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+  artifactKey: Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader using Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5eac7912d62f551da78c69b572dec580') in 0.032074 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001028 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Admin/PlayFabEvents.cs
+  artifactKey: Guid(17d913d4a2b01d044a0f70f2679f2fca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Admin/PlayFabEvents.cs using Guid(17d913d4a2b01d044a0f70f2679f2fca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '93048fcf45b0fd4dff8d69b6728f803e') in 0.028352 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '38aefe56a71ae1d7f9ecf90a43ea0497') in 0.500736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Internal/PlayFabHttp/PlayFabHTTP.cs
+  artifactKey: Guid(97a8a3caac8b73541aa8a9a1e330f479) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Internal/PlayFabHttp/PlayFabHTTP.cs using Guid(97a8a3caac8b73541aa8a9a1e330f479) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a84fd0c0068478effcd6fa200e196303') in 0.093383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Data/PlayFabDataModels.cs
+  artifactKey: Guid(3ab3048b1bd63d747b28b2fe0b181743) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Data/PlayFabDataModels.cs using Guid(3ab3048b1bd63d747b28b2fe0b181743) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b6300f2ccc85767370c67859fa43b848') in 0.125297 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001136 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Admin/PlayFabAdminAPI.cs
+  artifactKey: Guid(98aa7d0b4d53fe24392fc8cc52120845) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Admin/PlayFabAdminAPI.cs using Guid(98aa7d0b4d53fe24392fc8cc52120845) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b6f66fd8a191685a3c50a23d4d9e991f') in 0.161685 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.003037 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSystem.prefab
+  artifactKey: Guid(36fab018d7a637643b4161e1492c473d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSystem.prefab using Guid(36fab018d7a637643b4161e1492c473d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7a720d853983d3324d50d66524d666e0') in 0.239272 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 77
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Client/PlayFabEvents.cs
+  artifactKey: Guid(da33df462ae2fa04cb401398dc2b8a5d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Client/PlayFabEvents.cs using Guid(da33df462ae2fa04cb401398dc2b8a5d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8f7fb88b090c406fdf360cb608150912') in 0.052662 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Multiplayer/PlayFabMultiplayerAPI.cs
+  artifactKey: Guid(a5dd863da40a92a46b55d58a56b8db93) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Multiplayer/PlayFabMultiplayerAPI.cs using Guid(a5dd863da40a92a46b55d58a56b8db93) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e949c33161a74f5c6bc8e06c23dfecf5') in 0.079872 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Multiplayer/PlayFabMultiplayerInstanceAPI.cs
+  artifactKey: Guid(a4dbb109fa8001b4b9fa53260ba50cf8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Multiplayer/PlayFabMultiplayerInstanceAPI.cs using Guid(a4dbb109fa8001b4b9fa53260ba50cf8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '47e097f33ab5f5960f6d088099c2e32e') in 0.050217 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Multiplayer/PlayFabEvents.cs
+  artifactKey: Guid(fe16c398171536247a7e4685790d4dac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Multiplayer/PlayFabEvents.cs using Guid(fe16c398171536247a7e4685790d4dac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a9f9663c657f5f1912b98693a5a87c95') in 0.040166 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/PlayFabEditorSDK/PlayFabEditorApi.cs
+  artifactKey: Guid(78d90281a98aa9c47af733ae62f11a73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/PlayFabEditorSDK/PlayFabEditorApi.cs using Guid(78d90281a98aa9c47af733ae62f11a73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fc459dfe8dc57ff09d6f0c0d022da460') in 0.031119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorToolsMenu.cs
+  artifactKey: Guid(656ebe473a0de47c885424ad7816f408) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorToolsMenu.cs using Guid(656ebe473a0de47c885424ad7816f408) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '62b131929329b6fb595b17436685bdc7') in 0.024445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Components/SubMenuComponent.cs
+  artifactKey: Guid(5a2670b1b9ccb4eefa83498d43ab0c8a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Components/SubMenuComponent.cs using Guid(5a2670b1b9ccb4eefa83498d43ab0c8a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '19a480ccb6f4def5ae8e6f6fd330fcad') in 0.039417 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Internal/SimpleJson.cs
+  artifactKey: Guid(bce6184794650f24fa8ac244b25edc17) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Internal/SimpleJson.cs using Guid(bce6184794650f24fa8ac244b25edc17) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8a1d00dcd7e06b9580533eabfe4bc7c0') in 0.036680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/PlayFabDataGatherer.cs
+  artifactKey: Guid(9021fc3e0230b9a4db0f0e1b104b764b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/PlayFabDataGatherer.cs using Guid(9021fc3e0230b9a4db0f0e1b104b764b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '752a48c572c5aa6b7e619572fb368fec') in 0.016074 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/yellow.png
+  artifactKey: Guid(a50d8da0637a640dda5e2018b972cade) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/yellow.png using Guid(a50d8da0637a640dda5e2018b972cade) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c7869984a41db5f6b0dad56d24169cc0') in 0.042997 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/ZlibConstants.cs
+  artifactKey: Guid(8361ff3584a8a2e488ae21b3c835ce43) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/ZlibConstants.cs using Guid(8361ff3584a8a2e488ae21b3c835ce43) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ef0b51b4e1a7c3a8e03c683918bf7fcf') in 0.022554 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+  artifactKey: Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_SDF.shader using Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9d0a2f9034faf5d0e8dea6f4e2b38e45') in 0.025001 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Internal/Log.cs
+  artifactKey: Guid(5b55790eeab1b3c41a4f1381cbea1213) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Internal/Log.cs using Guid(5b55790eeab1b3c41a4f1381cbea1213) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a202e0be4b454ab5b8621d377e621e0c') in 0.020403 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/Deflate.cs
+  artifactKey: Guid(10c85b67d8e083d4bb3ade7def64d383) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/Deflate.cs using Guid(10c85b67d8e083d4bb3ade7def64d383) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '03e09baf45226c1c49cf4e2e84630590') in 0.023040 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/Gray_dk1.png
+  artifactKey: Guid(1c8aa345bd7fe44b88cf00b2f6b82579) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/Gray_dk1.png using Guid(1c8aa345bd7fe44b88cf00b2f6b82579) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5281b9b3086f00fbe73be08b3e4a9bd5') in 0.036307 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/r_gray.png
+  artifactKey: Guid(43f13eb24deac4ae5a86c25189272a74) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/r_gray.png using Guid(43f13eb24deac4ae5a86c25189272a74) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f4f38b85858d1970d2ea51579fd31e14') in 0.042071 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/White.png
+  artifactKey: Guid(5f32aedbadeff4790a54248a66f0b89d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/White.png using Guid(5f32aedbadeff4790a54248a66f0b89d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1aaf99a2763b819a4be98b015a7002b2') in 0.041673 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Models/Editor/MakeSharedSettingsObj.cs
+  artifactKey: Guid(46c39e1010e247d4bb53f57288dfecc8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Models/Editor/MakeSharedSettingsObj.cs using Guid(46c39e1010e247d4bb53f57288dfecc8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '373c12b1b1e757b4dcbb38543319c8e8') in 0.022097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/Square.png
+  artifactKey: Guid(1f9be0de996bb4832a474ecd28c9f0fc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/Square.png using Guid(1f9be0de996bb4832a474ecd28c9f0fc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '84f1beb84cb5bcad9e0663ac0e44166f') in 0.039281 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/dashboardIconHover.png
+  artifactKey: Guid(b43817ee9dda16c41a628a705526a021) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/dashboardIconHover.png using Guid(b43817ee9dda16c41a628a705526a021) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b93c855c2e4713c02e60aeeeea3e4464') in 0.052162 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs
+  artifactKey: Guid(5d0199c11aa6f514784c5c69cd8378d8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs using Guid(5d0199c11aa6f514784c5c69cd8378d8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3ba111743f9f21dfb288146e8cbcc7d4') in 0.021968 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/Gray_base.png
+  artifactKey: Guid(9427eaf0703a74a008e9f9353562df39) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/Gray_base.png using Guid(9427eaf0703a74a008e9f9353562df39) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5e850dad716434dc0019737badaf6748') in 0.053495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Internal/SingletonMonoBehaviour.cs
+  artifactKey: Guid(f6a51fa1ed684497db153f40961979c4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Internal/SingletonMonoBehaviour.cs using Guid(f6a51fa1ed684497db153f40961979c4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a85e0e3896fde0db33354ee602fb1b9f') in 0.017344 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/ZlibBaseStream.cs
+  artifactKey: Guid(1d7f7413bfac9414f9af6ed50db74ef0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/ZlibBaseStream.cs using Guid(1d7f7413bfac9414f9af6ed50db74ef0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'faf3898b01f23b8f05c48fa975a89d6f') in 0.023358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '56758b0b7380770913ed002bdd1957bc') in 0.016811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/PlayFabSettings.cs
+  artifactKey: Guid(aa223f24327e645d39b48f0ca9615e68) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/PlayFabSettings.cs using Guid(aa223f24327e645d39b48f0ca9615e68) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0165d63612d090bf0d36bad8f96efc4c') in 0.019405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '03871456ecdabeb5cb9df64386263d6c') in 0.092575 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/CRC32.cs
+  artifactKey: Guid(e9dc86cc59fba3146927bf0713d12495) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Ionic.Zlib/CRC32.cs using Guid(e9dc86cc59fba3146927bf0713d12495) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '241c469400158e24299ded6d3795d713') in 0.015295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/IPlayFabPlugin.cs
+  artifactKey: Guid(c515d14de9458ef449d382c41e4943b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/IPlayFabPlugin.cs using Guid(c515d14de9458ef449d382c41e4943b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3f3bc5a423e6fc0a70d74da5ba1c3819') in 0.023342 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Localization/PlayFabLocalizationAPI.cs
+  artifactKey: Guid(ca10b96ef3ce52644a989907c77d047f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Localization/PlayFabLocalizationAPI.cs using Guid(ca10b96ef3ce52644a989907c77d047f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a0801e318e7ae7298aa160dee69e0e42') in 0.018620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '393cce82ceb35b69aec4f4d0ebaf53a1') in 0.030364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/PluginContractKey.cs
+  artifactKey: Guid(c74eb9de26e70e7489002fb92b96af0f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabSdk/Shared/Public/PluginContractKey.cs using Guid(c74eb9de26e70e7489002fb92b96af0f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '048758919450bc24bcbc87bd95c730c6') in 0.021965 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/Clear.png
+  artifactKey: Guid(d03222342209e43daaf2ca8d1364e47a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/Clear.png using Guid(d03222342209e43daaf2ca8d1364e47a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4a83cab726e00f14260fdfbdbaad737e') in 0.035917 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorHeader.cs
+  artifactKey: Guid(cd7bce14a0a4b2a4a827a4ffd4d24849) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorHeader.cs using Guid(cd7bce14a0a4b2a4a827a4ffd4d24849) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6ee17c26f15adc85a105db34eac7ec62') in 0.024222 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/PlayFabEditorSDK/PlayFabEditorModels.cs
+  artifactKey: Guid(9115cedc892e0c845941e0cb3f98bd3b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/PlayFabEditorSDK/PlayFabEditorModels.cs using Guid(9115cedc892e0c845941e0cb3f98bd3b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '53f78d0309927927654c55ce97c3d99b') in 0.016031 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+  artifactKey: Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Fonts/LiberationSans - OFL.txt using Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '066550519d018a0e3b520ca8201f1401') in 0.024459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/playfablogo.png
+  artifactKey: Guid(77e37f7fe73c7db4d9a1702eb4ad411b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/UI/Images/playfablogo.png using Guid(77e37f7fe73c7db4d9a1702eb4ad411b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6cdd1a4b74515e201663847c0b9e6a5d') in 0.054690 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+  artifactKey: Guid(85187c2149c549c5b33f0cdb02836b17) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PlayFabPlayerAuth/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader using Guid(85187c2149c549c5b33f0cdb02836b17) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '167bf87277415a1da9b388295c37fcb8') in 0.023055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets / (0.8 KB). Loaded Objects now: 2003.
+Memory consumption went from 50.6 MB to 50.6 MB.
+Total: 10.896600 ms (FindLiveObjects: 0.260000 ms CreateObjectMapping: 0.202600 ms MarkObjects: 10.400500 ms  DeleteObjects: 0.032100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets / (3.0 KB). Loaded Objects now: 2003.
+Memory consumption went from 50.9 MB to 50.9 MB.
+Total: 6.188100 ms (FindLiveObjects: 0.343500 ms CreateObjectMapping: 0.197300 ms MarkObjects: 5.626500 ms  DeleteObjects: 0.019500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets / (3.0 KB). Loaded Objects now: 2003.
+Memory consumption went from 50.9 MB to 50.9 MB.
+Total: 11.314300 ms (FindLiveObjects: 0.200200 ms CreateObjectMapping: 0.155100 ms MarkObjects: 10.912300 ms  DeleteObjects: 0.045000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.053 seconds
+Refreshing native plugins compatible for Editor in 3.86 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+PlayFab.PfEditor.PlayFabEditorPrefsSO:get_Instance () (at Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs:38)
+PlayFab.PfEditor.SubMenuComponent:RegisterMenuItem (string,System.Action) (at Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Components/SubMenuComponent.cs:42)
+PlayFab.PfEditor.PlayFabEditorDataMenu:RegisterMenu () (at Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:93)
+PlayFab.PfEditor.PlayFabEditorDataMenu:.cctor () (at Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Panels/PlayFabEditorDataMenu.cs:74)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Assets/PlayFabPlayerAuth/PlayFabEditorExtensions/Editor/Scripts/Utils/PlayFabEditorPrefsSO.cs line 38]
+
+UnityEngine.UnityException: Creating asset at path Assets/PlayFabEditorExtensions/Editor/Resources/PlayFabEditorPrefsSO.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at PlayFab.PfEditor.PlayFabEditorPrefsSO.get_Instance () [0x00084] in C:\Users\typic\Downloads\New folder\M04-DV02-Leaderboards\M04-DV02-Leaderboards\Assets\PlayFabPlayerAuth\PlayFabEditorExtensions\Editor\Scripts\Utils\PlayFabEditorPrefsSO.cs:38 
+  at PlayFab.PfEditor.SubMenuComponent.RegisterMenuItem (System.String n, System.Action m) [0x00010] in C:\Users\typic\Downloads\New folder\M04-DV02-Leaderboards\M04-DV02-Leaderboards\Assets\PlayFabPlayerAuth\PlayFabEditorExtensions\Editor\Scripts\Components\SubMenuComponent.cs:42 
+  at PlayFab.PfEditor.PlayFabEditorDataMenu.RegisterMenu () [0x00018] in C:\Users\typic\Downloads\New folder\M04-DV02-Leaderboards\M04-DV02-Leaderboards\Assets\PlayFabPlayerAuth\PlayFabEditorExtensions\Editor\Scripts\Panels\PlayFabEditorDataMenu.cs:93 
+  at PlayFab.PfEditor.PlayFabEditorDataMenu..cctor () [0x0003a] in C:\Users\typic\Downloads\New folder\M04-DV02-Leaderboards\M04-DV02-Leaderboards\Assets\PlayFabPlayerAuth\PlayFabEditorExtensions\Editor\Scripts\Panels\PlayFabEditorDataMenu.cs:74 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.493 seconds
+Domain Reload Profiling:
+	ReloadAssembly (402ms)
+		BeginReloadAssembly (217ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		LoadAllAssembliesAndSetupDomain (647ms)
+			LoadAssemblies (418ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (344ms)
+				TypeCache.Initialize (325ms)
+					TypeCache.ScanAssembly (318ms)
+				ResolveRequiredComponents (7ms)
+		FinalizeReload (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (0ms)
+			SetupLoadedEditorAssemblies (874ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (739ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 248.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1511 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (28.5 KB). Loaded Objects now: 2008.
+Memory consumption went from 73.4 MB to 73.4 MB.
+Total: 477.654600 ms (FindLiveObjects: 1.202400 ms CreateObjectMapping: 0.271500 ms MarkObjects: 475.813900 ms  DeleteObjects: 0.361900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets / (3.0 KB). Loaded Objects now: 2008.
+Memory consumption went from 50.1 MB to 50.1 MB.
+Total: 7.112500 ms (FindLiveObjects: 0.724900 ms CreateObjectMapping: 0.493200 ms MarkObjects: 5.848900 ms  DeleteObjects: 0.043100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
